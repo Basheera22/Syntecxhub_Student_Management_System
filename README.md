@@ -31,13 +31,4 @@ Enter Name: Basheera
 Enter Age: 20
 Enter Course: CSE
 Student added successfully!
-===== Student Management System =====
-1. Add Student
-2. View Students
-3. Update Student
-4. Delete Student
-5. Exit
-Enter your choice: 2
-ID    Name      Age   Course
---------------------------------
-101   Basheera  20    CSE
+
