@@ -1,5 +1,4 @@
-# Syntecxhub_Student_Management_System
-This project is a console-based Student Management System developed using Java as part of the Syntecxhub Internship Program.
+Syntecxhub_Student_Management_System
 ## Project Description
 The Student Management System allows users to manage student records through a menu-driven console application. It supports basic CRUD operations and demonstrates the use of Java OOP concepts and collections.
 ## Features
