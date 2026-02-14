@@ -1,10 +1,10 @@
 Syntecxhub_Student_Management_System
 
-Project Description
+PROJECT DESCRIPTION:
 
 The Student Management System allows users to manage student records through a menu-driven console application. It supports basic CRUD operations and demonstrates the use of Java OOP concepts and collections.
 
-Features
+FEATURES:
 
 - Add new student details
 - View all student records
@@ -12,18 +12,19 @@ Features
 - Delete student records
 - Menu-driven console interface
 
-  Technologies Used
+ TECHNOLOGY USED:
   
 - Java
 - ArrayList
 - Object-Oriented Programming (OOP)
-  
- How to Run
- 
-1. Compile the program using: javac StudentManagementSystem.java
-2. Run the program using: java StudentManagementSystem
 
-Sample Output
+  HOW TO RUN:
+  
+1. Compile the program using: javac StudentManagementSystem.java
+2. 
+3. Run the program using: java StudentManagementSystem
+
+SAMPLE OUTPUT:
 
 The program runs in the command line and displays a menu for managing student records.
 
