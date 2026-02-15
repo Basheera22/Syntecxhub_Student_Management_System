@@ -21,8 +21,8 @@ FEATURES:
   HOW TO RUN:
   
 1. Compile the program using: javac StudentManagementSystem.java
-2. 
-3. Run the program using: java StudentManagementSystem
+    
+2. Run the program using: java StudentManagementSystem
 
 SAMPLE OUTPUT:
 
